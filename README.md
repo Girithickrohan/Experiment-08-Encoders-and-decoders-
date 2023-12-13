@@ -115,11 +115,12 @@ endmodule
 
 ## ENCODER:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Enco.png)
 
 ## DECODER:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Deco.png)
+
 
 
 
@@ -127,23 +128,23 @@ endmodule
 
 ## ENCODER:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Enco(1).png)
+
 
 ## DECODER:
 
-![image](
-
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Deco(1).png)
 
 
 ### TRUTH TABLE 
 
 ## ENCODER:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Enco(2).png)
 
 ## DECODER:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment-08-Encoders-and-decoders-/main/Deco(2).png)
 
 
 
